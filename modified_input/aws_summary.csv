@@ -1,0 +1,352 @@
+Service Name,Month,Price
+Amazon Elastic Compute Cloud ($),01/01/2024,12340.91
+Amazon Elastic Compute Cloud ($),01/02/2024,12042.98
+Amazon Elastic Compute Cloud ($),01/03/2024,13406.74
+Amazon Elastic Compute Cloud ($),01/04/2024,13688.65
+Amazon Elastic Compute Cloud ($),01/05/2024,14075.96
+Amazon Elastic Compute Cloud ($),01/06/2024,13519.43
+Amazon Elastic Compute Cloud ($),01/07/2024,14027.8
+Amazon Elastic Compute Cloud ($),01/08/2024,14987.94
+Amazon Elastic Compute Cloud ($),01/09/2024,15041.48
+AWS Data Transfer ($),01/01/2024,2405.33
+AWS Data Transfer ($),01/02/2024,2342.78
+AWS Data Transfer ($),01/03/2024,2838.74
+AWS Data Transfer ($),01/04/2024,2651.16
+AWS Data Transfer ($),01/05/2024,2833.95
+AWS Data Transfer ($),01/06/2024,3043.59
+AWS Data Transfer ($),01/07/2024,3365.77
+AWS Data Transfer ($),01/08/2024,4204.53
+AWS Data Transfer ($),01/09/2024,3993.29
+Amazon Redshift ($),01/01/2024,1532.72
+Amazon Redshift ($),01/02/2024,1622.68
+Amazon Redshift ($),01/03/2024,1915.58
+Amazon Redshift ($),01/04/2024,1878.13
+Amazon Redshift ($),01/05/2024,1904.36
+Amazon Redshift ($),01/06/2024,1847.37
+Amazon Redshift ($),01/07/2024,1912.6
+Amazon Redshift ($),01/08/2024,1934.28
+Amazon Redshift ($),01/09/2024,1890.58
+Amazon Simple Storage Service ($),01/01/2024,1107.92
+Amazon Simple Storage Service ($),01/02/2024,1138.15
+Amazon Simple Storage Service ($),01/03/2024,1184.59
+Amazon Simple Storage Service ($),01/04/2024,1220.75
+Amazon Simple Storage Service ($),01/05/2024,1271.54
+Amazon Simple Storage Service ($),01/06/2024,1320.92
+Amazon Simple Storage Service ($),01/07/2024,1370.41
+Amazon Simple Storage Service ($),01/08/2024,1427.75
+Amazon Simple Storage Service ($),01/09/2024,1083.97
+AmazonCloudWatch ($),01/01/2024,681.8
+AmazonCloudWatch ($),01/02/2024,668.48
+AmazonCloudWatch ($),01/03/2024,681.33
+AmazonCloudWatch ($),01/04/2024,690.56
+AmazonCloudWatch ($),01/05/2024,725.78
+AmazonCloudWatch ($),01/06/2024,758.81
+AmazonCloudWatch ($),01/07/2024,778.46
+AmazonCloudWatch ($),01/08/2024,797.46
+AmazonCloudWatch ($),01/09/2024,787.76
+AWS Support (Developer) ($),01/01/2024,559.59
+AWS Support (Developer) ($),01/02/2024,558.61
+AWS Support (Developer) ($),01/03/2024,624.52
+AWS Support (Developer) ($),01/04/2024,623.98
+AWS Support (Developer) ($),01/05/2024,646.58
+AWS Support (Developer) ($),01/06/2024,642.84
+AWS Support (Developer) ($),01/07/2024,684.43
+AWS Support (Developer) ($),01/08/2024,752.1
+AWS Support (Developer) ($),01/09/2024,730.71
+Amazon Kinesis ($),01/01/2024,473.34
+Amazon Kinesis ($),01/02/2024,459.13
+Amazon Kinesis ($),01/03/2024,504.27
+Amazon Kinesis ($),01/04/2024,487.97
+Amazon Kinesis ($),01/05/2024,504.28
+Amazon Kinesis ($),01/06/2024,488.07
+Amazon Kinesis ($),01/07/2024,504.35
+Amazon Kinesis ($),01/08/2024,515.32
+Amazon Kinesis ($),01/09/2024,500.69
+Amazon DynamoDB ($),01/01/2024,467.71
+Amazon DynamoDB ($),01/02/2024,439.55
+Amazon DynamoDB ($),01/03/2024,471.54
+Amazon DynamoDB ($),01/04/2024,454.63
+Amazon DynamoDB ($),01/05/2024,473.67
+Amazon DynamoDB ($),01/06/2024,458.27
+Amazon DynamoDB ($),01/07/2024,475.2
+Amazon DynamoDB ($),01/08/2024,498.88
+Amazon DynamoDB ($),01/09/2024,494.81
+Elastic Load Balancing ($),01/01/2024,502.79
+Elastic Load Balancing ($),01/02/2024,488.72
+Elastic Load Balancing ($),01/03/2024,480.81
+Elastic Load Balancing ($),01/04/2024,438.56
+Elastic Load Balancing ($),01/05/2024,445.39
+Elastic Load Balancing ($),01/06/2024,445
+Elastic Load Balancing ($),01/07/2024,465.47
+Elastic Load Balancing ($),01/08/2024,468.25
+Elastic Load Balancing ($),01/09/2024,441.73
+Amazon Pinpoint ($),01/01/2024,292.47
+Amazon Pinpoint ($),01/02/2024,314.98
+Amazon Pinpoint ($),01/03/2024,429.94
+Amazon Pinpoint ($),01/04/2024,385.31
+Amazon Pinpoint ($),01/05/2024,431.95
+Amazon Pinpoint ($),01/06/2024,464
+Amazon Pinpoint ($),01/07/2024,484.71
+Amazon Pinpoint ($),01/08/2024,609.42
+Amazon Pinpoint ($),01/09/2024,501.33
+AWS Database Migration Service ($),01/01/2024,394.32
+AWS Database Migration Service ($),01/02/2024,368.88
+AWS Database Migration Service ($),01/03/2024,394.32
+AWS Database Migration Service ($),01/04/2024,381.6
+AWS Database Migration Service ($),01/05/2024,394.32
+AWS Database Migration Service ($),01/06/2024,381.6
+AWS Database Migration Service ($),01/07/2024,394.32
+AWS Database Migration Service ($),01/08/2024,394.32
+AWS Database Migration Service ($),01/09/2024,381.6
+Amazon S3 Glacier Deep Archive ($),01/01/2024,285.63
+Amazon S3 Glacier Deep Archive ($),01/02/2024,298.29
+Amazon S3 Glacier Deep Archive ($),01/03/2024,311.41
+Amazon S3 Glacier Deep Archive ($),01/04/2024,325.93
+Amazon S3 Glacier Deep Archive ($),01/05/2024,339.95
+Amazon S3 Glacier Deep Archive ($),01/06/2024,354.41
+Amazon S3 Glacier Deep Archive ($),01/07/2024,369.94
+Amazon S3 Glacier Deep Archive ($),01/08/2024,384.3
+Amazon S3 Glacier Deep Archive ($),01/09/2024,393.78
+Amazon Simple Queue Service ($),01/01/2024,192.59
+Amazon Simple Queue Service ($),01/02/2024,187.03
+Amazon Simple Queue Service ($),01/03/2024,209.46
+Amazon Simple Queue Service ($),01/04/2024,191.97
+Amazon Simple Queue Service ($),01/05/2024,197.81
+Amazon Simple Queue Service ($),01/06/2024,199.72
+Amazon Simple Queue Service ($),01/07/2024,215.51
+Amazon Simple Queue Service ($),01/08/2024,203.9
+Amazon Simple Queue Service ($),01/09/2024,197.57
+Amazon Virtual Private Cloud ($),01/01/2024,37.2
+Amazon Virtual Private Cloud ($),01/02/2024,202.77
+Amazon Virtual Private Cloud ($),01/03/2024,208.04
+Amazon Virtual Private Cloud ($),01/04/2024,202.01
+Amazon Virtual Private Cloud ($),01/05/2024,208.52
+Amazon Virtual Private Cloud ($),01/06/2024,204.32
+Amazon Virtual Private Cloud ($),01/07/2024,210.44
+Amazon Virtual Private Cloud ($),01/08/2024,211.13
+Amazon Virtual Private Cloud ($),01/09/2024,204.36
+Amazon QuickSight ($),01/01/2024,0
+Amazon QuickSight ($),01/02/2024,0
+Amazon QuickSight ($),01/03/2024,0
+Amazon QuickSight ($),01/04/2024,0
+Amazon QuickSight ($),01/05/2024,17.59
+Amazon QuickSight ($),01/06/2024,43.18
+Amazon QuickSight ($),01/07/2024,360.16
+Amazon QuickSight ($),01/08/2024,639.24
+Amazon QuickSight ($),01/09/2024,622.87
+Amazon Elastic File System ($),01/01/2024,68.6
+Amazon Elastic File System ($),01/02/2024,71.22
+Amazon Elastic File System ($),01/03/2024,73.41
+Amazon Elastic File System ($),01/04/2024,73.33
+Amazon Elastic File System ($),01/05/2024,125.27
+Amazon Elastic File System ($),01/06/2024,187.16
+Amazon Elastic File System ($),01/07/2024,254.24
+Amazon Elastic File System ($),01/08/2024,312.76
+Amazon Elastic File System ($),01/09/2024,329.39
+Amazon Kinesis Firehose ($),01/01/2024,66.83
+Amazon Kinesis Firehose ($),01/02/2024,69.09
+Amazon Kinesis Firehose ($),01/03/2024,85.34
+Amazon Kinesis Firehose ($),01/04/2024,79.46
+Amazon Kinesis Firehose ($),01/05/2024,86
+Amazon Kinesis Firehose ($),01/06/2024,89.41
+Amazon Kinesis Firehose ($),01/07/2024,93.7
+Amazon Kinesis Firehose ($),01/08/2024,111.73
+Amazon Kinesis Firehose ($),01/09/2024,98.33
+Amazon EC2 Container Registry (ECR) ($),01/01/2024,16.71
+Amazon EC2 Container Registry (ECR) ($),01/02/2024,17.21
+Amazon EC2 Container Registry (ECR) ($),01/03/2024,17.2
+Amazon EC2 Container Registry (ECR) ($),01/04/2024,18.82
+Amazon EC2 Container Registry (ECR) ($),01/05/2024,20.22
+Amazon EC2 Container Registry (ECR) ($),01/06/2024,20.71
+Amazon EC2 Container Registry (ECR) ($),01/07/2024,21.33
+Amazon EC2 Container Registry (ECR) ($),01/08/2024,22.66
+Amazon EC2 Container Registry (ECR) ($),01/09/2024,26.19
+Amazon CloudFront ($),01/01/2024,15.7
+Amazon CloudFront ($),01/02/2024,15.34
+Amazon CloudFront ($),01/03/2024,12.9
+Amazon CloudFront ($),01/04/2024,12.58
+Amazon CloudFront ($),01/05/2024,17.71
+Amazon CloudFront ($),01/06/2024,16.67
+Amazon CloudFront ($),01/07/2024,2.05
+Amazon CloudFront ($),01/08/2024,0.09
+Amazon CloudFront ($),01/09/2024,0.04
+AWS Secrets Manager ($),01/01/2024,2.69
+AWS Secrets Manager ($),01/02/2024,6.85
+AWS Secrets Manager ($),01/03/2024,8.45
+AWS Secrets Manager ($),01/04/2024,8.62
+AWS Secrets Manager ($),01/05/2024,8.71
+AWS Secrets Manager ($),01/06/2024,9.05
+AWS Secrets Manager ($),01/07/2024,9.1
+AWS Secrets Manager ($),01/08/2024,9.5
+AWS Secrets Manager ($),01/09/2024,9.57
+Amazon Route 53 ($),01/01/2024,5
+Amazon Route 53 ($),01/02/2024,5
+Amazon Route 53 ($),01/03/2024,4.5
+Amazon Route 53 ($),01/04/2024,4.5
+Amazon Route 53 ($),01/05/2024,4.5
+Amazon Route 53 ($),01/06/2024,4.5
+Amazon Route 53 ($),01/07/2024,4.5
+Amazon Route 53 ($),01/08/2024,4.5
+Amazon Route 53 ($),01/09/2024,4.5
+AWS Key Management Service ($),01/01/2024,3.02
+AWS Key Management Service ($),01/02/2024,3.02
+AWS Key Management Service ($),01/03/2024,3.02
+AWS Key Management Service ($),01/04/2024,3.01
+AWS Key Management Service ($),01/05/2024,3
+AWS Key Management Service ($),01/06/2024,3
+AWS Key Management Service ($),01/07/2024,3
+AWS Key Management Service ($),01/08/2024,3
+AWS Key Management Service ($),01/09/2024,3
+Amazon Comprehend ($),01/01/2024,2
+Amazon Comprehend ($),01/02/2024,2
+Amazon Comprehend ($),01/03/2024,2
+Amazon Comprehend ($),01/04/2024,2
+Amazon Comprehend ($),01/05/2024,2
+Amazon Comprehend ($),01/06/2024,2
+Amazon Comprehend ($),01/07/2024,2
+Amazon Comprehend ($),01/08/2024,2
+Amazon Comprehend ($),01/09/2024,2
+Amazon Simple Notification Service ($),01/01/2024,1.92
+Amazon Simple Notification Service ($),01/02/2024,1.89
+Amazon Simple Notification Service ($),01/03/2024,2.84
+Amazon Simple Notification Service ($),01/04/2024,0.97
+Amazon Simple Notification Service ($),01/05/2024,0.71
+Amazon Simple Notification Service ($),01/06/2024,0.76
+Amazon Simple Notification Service ($),01/07/2024,0.93
+Amazon Simple Notification Service ($),01/08/2024,1
+Amazon Simple Notification Service ($),01/09/2024,0.66
+AWS CloudTrail ($),01/01/2024,0.2
+AWS CloudTrail ($),01/02/2024,0.21
+AWS CloudTrail ($),01/03/2024,0.21
+AWS CloudTrail ($),01/04/2024,0.22
+AWS CloudTrail ($),01/05/2024,0.24
+AWS CloudTrail ($),01/06/2024,0.23
+AWS CloudTrail ($),01/07/2024,0.24
+AWS CloudTrail ($),01/08/2024,0.25
+AWS CloudTrail ($),01/09/2024,5.36
+Amazon Athena ($),01/01/2024,0
+Amazon Athena ($),01/02/2024,0
+Amazon Athena ($),01/03/2024,4.68
+Amazon Athena ($),01/04/2024,0
+Amazon Athena ($),01/05/2024,0
+Amazon Athena ($),01/06/2024,0
+Amazon Athena ($),01/07/2024,0
+Amazon Athena ($),01/08/2024,0
+Amazon Athena ($),01/09/2024,0
+Amazon Textract ($),01/01/2024,2.41
+Amazon Textract ($),01/02/2024,0.78
+Amazon Textract ($),01/03/2024,0
+Amazon Textract ($),01/04/2024,0.19
+Amazon Textract ($),01/05/2024,0
+Amazon Textract ($),01/06/2024,0.21
+Amazon Textract ($),01/07/2024,0.51
+Amazon Textract ($),01/08/2024,0.33
+Amazon Textract ($),01/09/2024,0
+AWS Glue ($),01/01/2024,0.11
+AWS Glue ($),01/02/2024,0.11
+AWS Glue ($),01/03/2024,0.11
+AWS Glue ($),01/04/2024,0.11
+AWS Glue ($),01/05/2024,0.11
+AWS Glue ($),01/06/2024,0.11
+AWS Glue ($),01/07/2024,0.11
+AWS Glue ($),01/08/2024,0.11
+AWS Glue ($),01/09/2024,0.11
+Amazon Rekognition ($),01/01/2024,0.2
+Amazon Rekognition ($),01/02/2024,0.08
+Amazon Rekognition ($),01/03/2024,0.08
+Amazon Rekognition ($),01/04/2024,0.08
+Amazon Rekognition ($),01/05/2024,0.08
+Amazon Rekognition ($),01/06/2024,0.08
+Amazon Rekognition ($),01/07/2024,0.08
+Amazon Rekognition ($),01/08/2024,0.08
+Amazon Rekognition ($),01/09/2024,0.08
+Amazon ElastiCache ($),01/01/2024,0
+Amazon ElastiCache ($),01/02/2024,0
+Amazon ElastiCache ($),01/03/2024,0.63
+Amazon ElastiCache ($),01/04/2024,0
+Amazon ElastiCache ($),01/05/2024,0
+Amazon ElastiCache ($),01/06/2024,0
+Amazon ElastiCache ($),01/07/2024,0
+Amazon ElastiCache ($),01/08/2024,0
+Amazon ElastiCache ($),01/09/2024,0
+AWS Backup ($),01/01/2024,0.4
+AWS Backup ($),01/02/2024,0.19
+AWS Backup ($),01/03/2024,0
+AWS Backup ($),01/04/2024,0
+AWS Backup ($),01/05/2024,0
+AWS Backup ($),01/06/2024,0
+AWS Backup ($),01/07/2024,0
+AWS Backup ($),01/08/2024,0
+AWS Backup ($),01/09/2024,0
+AWS Systems Manager ($),01/01/2024,0
+AWS Systems Manager ($),01/02/2024,0
+AWS Systems Manager ($),01/03/2024,0
+AWS Systems Manager ($),01/04/2024,0
+AWS Systems Manager ($),01/05/2024,0
+AWS Systems Manager ($),01/06/2024,0
+AWS Systems Manager ($),01/07/2024,0
+AWS Systems Manager ($),01/08/2024,0
+AWS Systems Manager ($),01/09/2024,0
+AWS CloudFormation ($),01/01/2024,0
+AWS CloudFormation ($),01/02/2024,0
+AWS CloudFormation ($),01/03/2024,0
+AWS CloudFormation ($),01/04/2024,0
+AWS CloudFormation ($),01/05/2024,0
+AWS CloudFormation ($),01/06/2024,0
+AWS CloudFormation ($),01/07/2024,0
+AWS CloudFormation ($),01/08/2024,0
+AWS CloudFormation ($),01/09/2024,0
+AWS Lambda ($),01/01/2024,0
+AWS Lambda ($),01/02/2024,0
+AWS Lambda ($),01/03/2024,0
+AWS Lambda ($),01/04/2024,0
+AWS Lambda ($),01/05/2024,0
+AWS Lambda ($),01/06/2024,0
+AWS Lambda ($),01/07/2024,0
+AWS Lambda ($),01/08/2024,0
+AWS Lambda ($),01/09/2024,0
+AWS Migration Hub Refactor Spaces ($),01/01/2024,0
+AWS Migration Hub Refactor Spaces ($),01/02/2024,0
+AWS Migration Hub Refactor Spaces ($),01/03/2024,0
+AWS Migration Hub Refactor Spaces ($),01/04/2024,0
+AWS Migration Hub Refactor Spaces ($),01/05/2024,0
+AWS Migration Hub Refactor Spaces ($),01/06/2024,0
+AWS Migration Hub Refactor Spaces ($),01/07/2024,0
+AWS Migration Hub Refactor Spaces ($),01/08/2024,0
+AWS Migration Hub Refactor Spaces ($),01/09/2024,0
+AWS Service Catalog ($),01/01/2024,0
+AWS Service Catalog ($),01/02/2024,0
+AWS Service Catalog ($),01/03/2024,0
+AWS Service Catalog ($),01/04/2024,0
+AWS Service Catalog ($),01/05/2024,0
+AWS Service Catalog ($),01/06/2024,0
+AWS Service Catalog ($),01/07/2024,0
+AWS Service Catalog ($),01/08/2024,0
+AWS Service Catalog ($),01/09/2024,0
+AWS X-Ray ($),01/01/2024,0
+AWS X-Ray ($),01/02/2024,0
+AWS X-Ray ($),01/03/2024,0
+AWS X-Ray ($),01/04/2024,0
+AWS X-Ray ($),01/05/2024,0
+AWS X-Ray ($),01/06/2024,0
+AWS X-Ray ($),01/07/2024,0
+AWS X-Ray ($),01/08/2024,0
+AWS X-Ray ($),01/09/2024,0
+Amazon Cognito ($),01/01/2024,0
+Amazon Cognito ($),01/02/2024,0
+Amazon Cognito ($),01/03/2024,0
+Amazon Cognito ($),01/04/2024,0
+Amazon Cognito ($),01/05/2024,0
+Amazon Cognito ($),01/06/2024,0
+Amazon Cognito ($),01/07/2024,0
+Amazon Cognito ($),01/08/2024,0
+Amazon Cognito ($),01/09/2024,0
+AWS Credits ($),01/01/2024,0
+AWS Credits ($),01/02/2024,-1007.56
+AWS Credits ($),01/03/2024,0
+AWS Credits ($),01/04/2024,0
+AWS Credits ($),01/05/2024,0
+AWS Credits ($),01/06/2024,0
+AWS Credits ($),01/07/2024,0
+AWS Credits ($),01/08/2024,0
+AWS Credits ($),01/09/2024,0

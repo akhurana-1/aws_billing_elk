@@ -1,0 +1,73 @@
+Ec2 Service Name,Month,Ec2 Service Price
+NatGateway,01/01/2024,538.47
+NatGateway,01/02/2024,537.62
+NatGateway,01/03/2024,573.12
+NatGateway,01/04/2024,543.85
+NatGateway,01/05/2024,564.58
+NatGateway,01/06/2024,587.36
+NatGateway,01/07/2024,759.68
+NatGateway,01/08/2024,832.1
+NatGateway,01/09/2024,594
+EC2 Instace Linux/UNIX OD/RI and CPU Credits,01/01/2024,6147.04
+EC2 Instace Linux/UNIX OD/RI and CPU Credits,01/02/2024,5897.80
+EC2 Instace Linux/UNIX OD/RI and CPU Credits,01/03/2024,6770.28
+EC2 Instace Linux/UNIX OD/RI and CPU Credits,01/04/2024,6704.17
+EC2 Instace Linux/UNIX OD/RI and CPU Credits,01/05/2024,7124.40
+EC2 Instace Linux/UNIX OD/RI and CPU Credits,01/06/2024,6812.92
+EC2 Instace Linux/UNIX OD/RI and CPU Credits,01/07/2024,7267.00
+EC2 Instace Linux/UNIX OD/RI and CPU Credits,01/08/2024,7821.96
+EC2 Instace Linux/UNIX OD/RI and CPU Credits,01/09/2024,7798
+EC2 Instace Windows OD/RI,01/01/2024,1345.08
+EC2 Instace Windows OD/RI,01/02/2024,1258.92
+EC2 Instace Windows OD/RI,01/03/2024,1346.00
+EC2 Instace Windows OD/RI,01/04/2024,1301.62
+EC2 Instace Windows OD/RI,01/05/2024,1345.05
+EC2 Instace Windows OD/RI,01/06/2024,1302.33
+EC2 Instace Windows OD/RI,01/07/2024,1107.92
+EC2 Instace Windows OD/RI,01/08/2024,1093.50
+EC2 Instace Windows OD/RI,01/09/2024,1062
+EC2 Instace Linux/UNIX Spot,01/01/2024,479.81
+EC2 Instace Linux/UNIX Spot,01/02/2024,438.12
+EC2 Instace Linux/UNIX Spot,01/03/2024,704.24
+EC2 Instace Linux/UNIX Spot,01/04/2024,662.03
+EC2 Instace Linux/UNIX Spot,01/05/2024,583.74
+EC2 Instace Linux/UNIX Spot,01/06/2024,521.77
+EC2 Instace Linux/UNIX Spot,01/07/2024,529.24
+EC2 Instace Linux/UNIX Spot,01/08/2024,554.7
+EC2 Instace Linux/UNIX Spot,01/09/2024,545
+EBS Volume,01/01/2024,2316.48
+EBS Volume,01/02/2024,2228.00
+EBS Volume,01/03/2024,2273.00
+EBS Volume,01/04/2024,2600.00
+EBS Volume,01/05/2024,2526.00
+EBS Volume,01/06/2024,2431.77
+EBS Volume,01/07/2024,2463.45
+EBS Volume,01/08/2024,2531.00
+EBS Volume,01/09/2024,2639
+EBS Snapshot,01/01/2024,1399.89
+EBS Snapshot,01/02/2024,1642.00
+EBS Snapshot,01/03/2024,1699.00
+EBS Snapshot,01/04/2024,1840.00
+EBS Snapshot,01/05/2024,1890.00
+EBS Snapshot,01/06/2024,1822.22
+EBS Snapshot,01/07/2024,1860.71
+EBS Snapshot,01/08/2024,2115.00
+EBS Snapshot,01/09/2024,2365
+Cpu credit,01/01/2024,110.38
+Cpu credit,01/02/2024,36.35
+Cpu credit,01/03/2024,37.53
+Cpu credit,01/04/2024,33.19
+Cpu credit,01/05/2024,38.96
+Cpu credit,01/06/2024,37.29
+Cpu credit,01/07/2024,35.73
+Cpu credit,01/08/2024,35.59
+Cpu credit,01/09/2024,34.66
+Ohio,01/01/2024,3.76
+Ohio,01/02/2024,3.76
+Ohio,01/03/2024,3.76
+Ohio,01/04/2024,3.76
+Ohio,01/05/2024,3.76
+Ohio,01/06/2024,3.76
+Ohio,01/07/2024,3.76
+Ohio,01/08/2024,3.76
+Ohio,01/09/2024,3.76
